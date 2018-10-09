@@ -1,5 +1,5 @@
 pkg_name=test-hab
-pkg_origin=vagrant
+pkg_origin=test-origin235626
 pkg_version="0.1.0"
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_license=("Apache-2.0")
